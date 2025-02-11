@@ -39,6 +39,7 @@ python run_model.py -d data/YNDX_150101_151231.csv -m saves/model.data -n transf
 ```
 
 ![Training Data Evaluation](assets/rewards-DQNTransformer_on_train.png)
+
 Then, we evaluate it on the validation data:
 
 ![Validation Data Evaluation](assets/rewards-DQNTransformer_on_validation.png)
