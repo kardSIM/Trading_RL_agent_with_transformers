@@ -3,7 +3,8 @@ An RL agent that can trade using **Deep Q-Network** (DQN) and a **decoder-only T
 
 ## Introduction
 
-Welcome to the **Trading RL Agent with Transformers** project! This project was built on top of the great work of **@Shmuma**. It is an implementation of a Reinforcement Learning (RL) agent designed for trading financial markets, leveraging the power of Transformer models. The goal of this project is to explore the potential of combining RL with Transformer architectures to create a robust and adaptive trading agent.
+Welcome to the **Trading RL Agent with Transformers** project! This project was built on top of the great work of **[GitHub Profile](https://github.com/shmuma)
+**. It is an implementation of a Reinforcement Learning (RL) agent designed for trading financial markets, leveraging the power of Transformer models. The goal of this project is to explore the potential of combining RL with Transformer architectures to create a robust and adaptive trading agent.
 
 The agent is trained to make trading decisions (e.g., buy, sell, hold) based on historical market data, with the aim of maximizing rewards. The Transformer model is used to capture complex temporal dependencies and patterns in the market data.
 
