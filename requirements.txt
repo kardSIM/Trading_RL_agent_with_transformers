@@ -1,0 +1,2 @@
+ptan==0.8.1
+tensorboard==2.18.0
